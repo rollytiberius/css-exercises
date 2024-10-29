@@ -1,7 +1,16 @@
+* {
+   margin:0;
+   border:0;
+   padding: 0;
+   }
 .header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
+<<<<<<< HEAD
+=======
+  align-items:center;
+>>>>>>> 698e5eb923f4dc81e55264006996d715d6deeebb
   justify-content: space-between;
 }
 
@@ -11,6 +20,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 10px;
 }
 
 ul {
@@ -34,3 +44,15 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+<<<<<<< HEAD
+=======
+
+ul {
+  display:flex;
+  margin:10px;
+}
+
+li {
+  margin: 5px;
+}
+>>>>>>> 698e5eb923f4dc81e55264006996d715d6deeebb
