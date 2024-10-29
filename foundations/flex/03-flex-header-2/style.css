@@ -12,6 +12,8 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  display: flex;
+  justify-content: space-between;
 }
 
 .profile-image {
@@ -44,5 +46,15 @@ a {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
+}
+
+.one {
+  display: flex;
+}
+
+.two {
+
+  display: flex;
 }
