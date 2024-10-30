@@ -23,4 +23,18 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+  
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
 }
