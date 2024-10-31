@@ -43,6 +43,8 @@ input {
 
 a {
   text-decoration: none;
+  color: dimgray;
+  margin: 10px;
 }
 
 li {
@@ -51,5 +53,10 @@ li {
 }
 
 .left-links {
+  display: flex;
+}
+
+
+.right-links {
   display: flex;
 }
