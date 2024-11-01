@@ -16,6 +16,8 @@ body {
 .footer {
   display: flex;
   justify-content: space-between; 
+  background: rgb(237, 235, 242);
+  height: 40px;
 }
 
 img {
@@ -70,7 +72,7 @@ li {
 .main {
   display: flex;
   flex-direction: column;
-  width: 98%;
+  width: 100%;
   height: 100%;
   justify-content: space-between;
 }
